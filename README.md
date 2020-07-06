@@ -16,3 +16,5 @@ Big thanks for help with this app go to Meguel Chavez, my tutor in coding.
 This app is still in progress, as it is not functional.
 
 ## Screenshots
+
+![budgetTracker1](https://user-images.githubusercontent.com/59940368/86605487-c4f93780-bf74-11ea-8b7f-3096c3b25264.png)
