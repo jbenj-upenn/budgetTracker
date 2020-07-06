@@ -21,7 +21,7 @@ Thanks to our instructor and Teaching Assistants (github usernames following in 
 ![budgetTracker1](https://user-images.githubusercontent.com/59940368/86605487-c4f93780-bf74-11ea-8b7f-3096c3b25264.png)
 
 ## Usage
-![budgetTracker Demo](gif/usageGif.gif)
+![budgetTracker Demo](/gif/usageGif.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
